@@ -5,10 +5,8 @@
 
 - 🌱 I’m currently learning **AI/ML, React Native**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1xqdCIoWBDF6WwPxtK1OHGrjCWnQS44LV](https://drive.google.com/drive/u/1/folders/1xqdCIoWBDF6WwPxtK1OHGrjCWnQS44LV)
-
 - 📫 How to reach me:
-**Mail Id: akanksha8287961834@gmail.com**
+**Mail Id: akanksha8287961834@gmail.com**\n
 **LinkedIn: https://www.linkedin.com/in/akansha-thakur-9922a8317/**
 
 <h3 align="left">Languages and Tools:</h3>
