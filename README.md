@@ -8,7 +8,9 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1xqdCIoWBDF6WwPxtK1OHGrjCWnQS44LV](https://drive.google.com/drive/u/1/folders/1xqdCIoWBDF6WwPxtK1OHGrjCWnQS44LV)
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **mailto - akanksha8287961834@gmail.com, linkedin - https://www.linkedin.com/in/akansha-thakur-9922a8317/**
+- 📫 How to reach me:
+**Mail Id: akanksha8287961834@gmail.com**
+**LinkedIn: https://www.linkedin.com/in/akansha-thakur-9922a8317/**
 <p align="left">
 </p>
 
