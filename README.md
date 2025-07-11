@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development projects**
 
-- 🌱 I’m currently learning **AI/ML, React Native**
+- 🌱 I’m currently learning **AI/ML, DL, React Native**
 
 - 📫 How to reach me:
   
