@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akansha Thakur</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Full Stack Development projects**
+- 🔭 I’m currently working on **AI/ML and Data Science full stack projects**
 
-- 🌱 I’m currently learning **AI/ML, DL, React Native**
+- 🌱 I’m currently learning **AI/ML, DL and React Native**
 
 - 📫 How to reach me:
   
