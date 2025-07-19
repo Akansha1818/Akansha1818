@@ -7,7 +7,7 @@
 
 - 📫 How to reach me:
   
-  **Mail Id: akanksha8287961834@gmail.com**
+  **Mail Id: 231210008@nitdelhi.ac.in**
   
   **LinkedIn: https://www.linkedin.com/in/akansha-thakur-9922a8317/**
 
